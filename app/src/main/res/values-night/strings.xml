@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_text">Input Text:</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="excluded_word_list_tap_to_add">Excluded Word List(Tap to add)</string>
+    <string name="deletion_percentage">Deletion Percentage:</string>
+    <string name="preserve_line_break">Preserve Line Break</string>
+    <string name="output_text">Output Text:</string>
+    <string name="copy_output">Copy Output</string>
+    <string name="copyright_reserved" translatable="false">© 2023 Husayn Irfan - Deletion Tool. All rights reserved.</string>
+</resources>

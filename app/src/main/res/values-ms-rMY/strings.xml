@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deletion Tool</string>
+    <string name="input_text">Teks Input:</string>
+    <string name="enter_text_here">Masukkan teks di sini</string>
+    <string name="excluded_word_list_tap_to_add">Pengecualian Perkataan(Tambah)</string>
+    <string name="deletion_percentage">Peratusan Ubahan:</string>
+    <string name="preserve_line_break">Kekalkan Baris</string>
+    <string name="output_text">Teks Output:</string>
+    <string name="copy_output">Salin Output</string>
+</resources>
